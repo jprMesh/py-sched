@@ -7,8 +7,8 @@ Python Schedule Viewer
 
 Usage
 --------
-> $ python schedule2.py
-> or
+> $ python schedule2.py  
+> or  
 > $ python3 schedule3.py
 
 Legal colors
