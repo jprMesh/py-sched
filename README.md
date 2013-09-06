@@ -5,6 +5,12 @@ Python Schedule Viewer
 
 * schedule3.py is compatible with Python 3.3.
 
+Usage
+--------
+> $ python schedule2.py
+> or
+> $ python3 schedule3.py
+
 Legal colors
 --------
 * red
