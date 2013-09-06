@@ -32,7 +32,7 @@ def makeblock (color, daysOfWeek, time, length):
                                 fill=color)
 
 # Courses array madness
-courses = [[[[0 for cours in range(10)]for data in range(3)] for classes in range(10)] for modata in range(3)]
+courses = [[[[0 for modata in range(3)]for classes in range(7)] for data in range(3)] for cours in range(10)]
 
 # Get inputs
 name = input("Your Name: ")
