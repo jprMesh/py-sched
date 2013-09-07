@@ -17,23 +17,7 @@ $ python3 schedule3.py
 
 Legal colors
 --------
-* red
-* green
-* blue
-* cyan
-* yellow
-* gray
-* magenta
-* black
-* pink
-* hot pink
-* lavender
-* light green
-* spring green
-* chartreuse
-* medium blue
-* purple
-* etc.
+http://www.tcl.tk/man/tcl8.4/TkCmd/colors.htm
 
 Examples
 --------
