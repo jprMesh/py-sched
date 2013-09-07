@@ -38,3 +38,4 @@ Legal colors
 Examples
 --------
 * http://i.imgur.com/r4HL2gq.png
+* http://i.imgur.com/Lc7DkLR.png
